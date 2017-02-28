@@ -1,4 +1,4 @@
-FROM python:2.7
+FROM python:3
 RUN apt-get update && apt-get install -y zip
 RUN mkdir /pack
 ADD pack.sh /pack/pack.sh
