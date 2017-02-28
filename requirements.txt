@@ -1,0 +1,4 @@
+elasticsearch == 5.2
+numpy
+py4j
+psutil
